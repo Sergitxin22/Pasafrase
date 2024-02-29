@@ -27,7 +27,7 @@ function createWords(loadedJson = null, startGame) {
 
 function showDefinitionWords(termino) {
     const numDefenitionWords = termino.split(" ").length;
-    $("js--wordsNumber").innerHTML = "El término está formado por " + numDefenitionWords + " palabras.";    
+    $("js--wordsNumber").innerHTML = "El término está formado por " + numDefenitionWords + " palabra" + (numDefenitionWords == 1 ? '' : 's') + '.'; 
 }
 
 function loadWords(jsonData) {
