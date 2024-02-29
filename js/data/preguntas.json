@@ -1,0 +1,256 @@
+{
+    "preguntas": [
+        {
+            "questionId": 0,
+            "letter": "A",
+            "introduction": "Empieza por A:",
+            "description": "Relato breve de un acontecimiento extraño, curioso o divertido, generalmente ocurrido a la persona que lo cuenta.",
+            "solutions": [
+                "anecdota hol aoa",
+                "opcion2"
+            ]
+        },
+        {
+            "questionId": 1,
+            "letter": "B",
+            "introduction": "Empieza por B:",
+            "description": "Pasta dulce y esponjosa, hecha con harina, huevos, levadura y otros ingredientes, que puede tener distintas formas.",
+            "solutions": [
+                "anecdota",
+                "a"
+            ]
+        },
+        {
+            "questionId": 2,
+            "letter": "C",
+            "introduction": "Empieza por C:",
+            "description": "Corriente de agua que cae desde cierta altura a causa de un brusco desnivel en su cauce, especialmente en un rio.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 3,
+            "letter": "D",
+            "introduction": "Empieza por D:",
+            "description": "Arma blanca de hoja corta, ancha y puntiaguda, parecida a la espada pero de menor tamaño.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 4,
+            "letter": "E",
+            "introduction": "Empieza por E:",
+            "description": "Línea curva que describe varias vueltas alrededor de un punto, alejándose cada vez más de él.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 5,
+            "letter": "F",
+            "introduction": "Contiene la F:",
+            "description": "Que está descompuesto o podrido por la acción de diversos factores y determinados microorganismos.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 6,
+            "letter": "G",
+            "introduction": "Empieza por G:",
+            "description": "Que se comporta de manera ruda, tosca o grosera.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 7,
+            "letter": "H",
+            "introduction": "Contiene la H:",
+            "description": "Persona o animal que es grueso y de poca altura.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 8,
+            "letter": "I",
+            "introduction": "Empieza por I:",
+            "description": "Que está en el espacio existente entre dos astros, o que tiene relación con él.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 9,
+            "letter": "J",
+            "introduction": "Empieza por J:",
+            "description": "Chile picante de unos 5 cm de largo, carnoso y de punta redonda, que se usa para condimentar ciertos guisos.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 10,
+            "letter": "L",
+            "introduction": "Contiene la L:",
+            "description": "Hombre pequeño y débil.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 11,
+            "letter": "M",
+            "introduction": "Empieza por M:",
+            "description": "Persona que sufre o muere por defender su religión o sus ideales.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 12,
+            "letter": "N",
+            "introduction": "Empieza por N:",
+            "description": "Tubo fluorescente que produce una luz brillante.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 13,
+            "letter": "Ñ",
+            "introduction": "Contiene la Ñ:",
+            "description": "Dar a una cosa un color distinto del que tiene.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 14,
+            "letter": "O",
+            "introduction": "Empieza por O:",
+            "description": "Que conoce todas las cosas reales y posibles.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 15,
+            "letter": "P",
+            "introduction": "Contiene la P:",
+            "description": "Calzado de lona, con suela de esparto, cáñamo o goma, que se sujeta al pie por presión o con unas cintas que se atan al tobillo.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 16,
+            "letter": "Q",
+            "introduction": "Empieza por Q:",
+            "description": "Que se puede romper fácilmente.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 17,
+            "letter": "R",
+            "introduction": "Empieza por R:",
+            "description": "Operación quirúrgica para restaurar la nariz.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 18,
+            "letter": "S",
+            "introduction": "Contiene la S:",
+            "description": "Falta de cuidado en la forma de vestir y en el aseo personal.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 19,
+            "letter": "T",
+            "introduction": "Empieza por T:",
+            "description": "Persona alocada, bulliciosa y molesta.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 20,
+            "letter": "U",
+            "introduction": "Contiene la U:",
+            "description": "Persona que rehúye el trato de otras personas y rechaza las atenciones y muestras de cariño.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 21,
+            "letter": "V",
+            "introduction": "Empieza por V:",
+            "description": "Tributo que el vasallo pagaba a su señor o servicio que le prestaba según este vínculo.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 22,
+            "letter": "X",
+            "introduction": "Contiene la X:",
+            "description": "Punto culminante o de mayor satisfacción de la excitación sexual en las zonas erógenas o sexuales.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 23,
+            "letter": "Y",
+            "introduction": "Contiene la Y:",
+            "description": "Toro castrado, que se utiliza como animal de tiro y del cual se aprovecha su carne.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        },
+        {
+            "questionId": 24,
+            "letter": "Z",
+            "introduction": "Contiene la Z:",
+            "description": "Que es tonto o tiene poca rapidez mental.",
+            "solutions": [
+                "a",
+                "b"
+            ]
+        }
+    ]
+}
+
+    
